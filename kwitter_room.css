@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(0, 191, 255);
+}
+#dive
+{
+    width:100;
+    text-align:center;
+}
+#addroom
+{
+ border-radius:50px;
+ background-color: azure;
+ color: lightblue;
+border-width:0px;
+}
+#roomname
+{
+    border-radius:50px;
+}
+#logout_button
+{
+    border-radius:50px;
+    background-color: rgb(17, 211, 211);
+    color: rgb(5, 78, 102);
+   border-width:0px;
+}
